@@ -3,6 +3,8 @@
 Detect and visualize train traffic using an arduino shielded with a
 sound detector, a RTC clock, and a SDcard storage.
 
+![Current install](http://i.imgur.com/IHbeFl.jpg)
+
 ## References
 
 * [Shopping list](https://pad.tetalab.org/p/detecteur-train)
