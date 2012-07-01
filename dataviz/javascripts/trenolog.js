@@ -7,9 +7,10 @@ $.get("./logs/DATALOG_first.TXT", function(data){
   });
 
   var datad3 = [],
-      index = 0;
+      index = 0,
+      limit = 5000;
   data.forEach(function(x){
-    if(index < 5000) {
+    if(index < limit) {
       datad3.push(x.value);
     }
     index += 1;
