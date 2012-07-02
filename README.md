@@ -15,3 +15,4 @@ sound detector, a RTC clock, and a SDcard storage.
 * [Weekly traffic dataviz](http://trends.truliablog.com/vis/tru247/)
 * [d3 Crossfilter](https://github.com/square/crossfilter/wiki/API-Reference)
 * [d3 line chart](http://www.janwillemtulp.com/2011/04/01/tutorial-line-chart-in-d3/)
+* [Detecting spikes](http://www.faqoverflow.com/stats/20612.html)
